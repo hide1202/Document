@@ -6,4 +6,4 @@
 
 ## Methods
 
-* [Defining Methods](methods.md)
+* [Objective-C Generics](Documents/ObjectiveC/Language/ObjectiveC_Generics.md)
